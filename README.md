@@ -123,13 +123,6 @@ install.packages(c(
 * CRISPR matrices: first column is model ID; others are gene symbols.
 * MSI: from `OmicsSignatures.csv`.
 
-## Repro tips
-
-* Set random seeds in any RF wrappers if you change defaults.
-* Column **positions** are used in some helpers (e.g., rename indices 7/8/11/12). If your matrix order differs, switch to name-based renames.
-* Some code uses `A1BG` as a sentinel column for `drop_na`; confirm it exists in `effect`.
-* Impute missing MSI as 0 only if that matches your analysis plan.
-
 ## Known limitations (from the study)
 
 * Drug inhibition rarely matches genetic KO profiles at scale.
