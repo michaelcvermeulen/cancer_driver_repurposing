@@ -1,4 +1,4 @@
-# Synthetic lethality drug repurposing — codebase README
+# Synthetic lethality drug repurposing — codebase
 
 This repo supports the manuscript *Challenges and opportunities for drug repurposing in cancers based on synthetic lethality induced by tumor suppressor gene mutations*, under review at npj Systems Biology.
 
