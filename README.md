@@ -1,6 +1,6 @@
 # Synthetic lethality drug repurposing - DepMap and PRISM analysis
 
-This repo supports the manuscript *Challenges and opportunities for drug repurposing in cancers based on synthetic lethality induced by tumor suppressor gene mutations*, under review at npj Systems Biology.
+This repo supports the manuscript *Challenges and opportunities for drug repurposing in cancers based on synthetic lethality induced by tumor suppressor gene mutations*, under review at npj Systems Biology and Applications.
 
 It contains R scripts to build driver-centric dependency networks, run ANOVA- and RF-based tests, integrate drug sensitivity, and generate figures.
 
